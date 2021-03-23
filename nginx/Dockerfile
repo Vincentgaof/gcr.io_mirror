@@ -1,2 +1,2 @@
-FROM nginx:latest
+FROM nginx:1.7.9
 MAINTAINER 592196977@qq.com
